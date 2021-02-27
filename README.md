@@ -1,8 +1,32 @@
 # git1_CDV
 
+
 ### About project in CDV for GIT TRAINING
 
-:+1: :sparkles: :tada: :rocket: :metal: :octocat:
+### Here is new Python image:
+![alt text](https://applover.pl/wp-content/uploads/2020/01/kisspng-python-computer-icons-programming-language-executa-5d0f0aa7c78fb3.0414836115612668558174-1024x1024.png "Python logo")
+
+
+[link to GIT tutorial](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
+
+
+## movies about Appium 
+[![link to video](![image](https://user-images.githubusercontent.com/79729260/109389128-599d1500-790b-11eb-915d-0732b297a1a4.png)
+)](https://www.youtube.com/watch?v=UlktcBntD6sYOUTUBE_VIDEO_ID_HERE)
+
+
+----
+**Test Schedule**
+----
+- [ ] Test new features
+- [x] Retests
+- [ ] Regression
+
+
+## Useful links
+[How to use markdown](https://guides.github.com/features/mastering-markdown/)
+
+:+1: :octocat:
 
 [Link to GIT tutorial](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/)
 
@@ -72,9 +96,9 @@ We have a policy to create MR to both release branch and `develop` to see proble
 1. Run release (see above) on release branch
 
 
+Code sample:
 ```python
 if __name__ == "__main__":
     # ...to uruchamiam testy
     unittest.main(verbosity=2)
 ```
-
